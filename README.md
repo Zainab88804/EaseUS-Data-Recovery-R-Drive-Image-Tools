@@ -10,6 +10,6 @@ This repository contains **Digital Forensics Lab 2**, where I explored **EaseUS 
 - **EaseUS Data Recovery Tool** – For recovering lost or deleted data.  
 
 ## 📂 Download File  
-🔗 [Download DIGITALfORENSICSLAB2.docx](<your-download-link-here>) 
+🔗 [Download DIGITALfORENSICSLAB2.docx](https://github.com/Zainab88804/EaseUS-Data-Recovery-R-Drive-Image-Tools/raw/refs/heads/main/DigitalForensicsLab2.docx) 
 
 
